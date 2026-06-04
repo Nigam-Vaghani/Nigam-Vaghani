@@ -1,244 +1,172 @@
 <div align="center">
 
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:7c3aed&height=200&section=header&text=Nigam%20Vaghani&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Dev%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=62&descSize=16"/>
+<br/>
 
-<!-- Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Building+things+that+actually+work+%F0%9F%9A%80;React+%2B+Next.js+%2B+Django+%2B+Flask;AI%2FML+explorer+%7C+Computer+vision+enjoyer;Open+source+contributor+%F0%9F%8C%B1;I+built+an+OS+in+Python.+Yes%2C+really.+%F0%9F%91%80;Always+learning%2C+always+shipping+%F0%9F%94%A5" alt="Typing SVG" />
-</a>
+# Nigam Vaghani
 
-<br/><br/>
-
-<!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=Nigam-Vaghani&label=Profile+Views&color=1f6feb&style=for-the-badge" />
-&nbsp;
-<a href="https://github.com/Nigam-Vaghani?tab=followers">
-  <img src="https://img.shields.io/github/followers/Nigam-Vaghani?label=Followers&style=for-the-badge&color=7c3aed" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-3fb950?style=for-the-badge&logo=github" />
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-success?style=for-the-badge" />
-
-</div>
+### Full-Stack Developer &nbsp;·&nbsp; AI/ML Engineer &nbsp;·&nbsp; Open Source Contributor
 
 <br/>
 
+[![Profile Views](https://komarev.com/ghpvc/?username=Nigam-Vaghani&style=flat-square&color=0969da&label=profile+views)](https://github.com/Nigam-Vaghani)
+&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Nigam-Vaghani?style=flat-square&color=238636&label=followers)](https://github.com/Nigam-Vaghani?tab=followers)
+&nbsp;&nbsp;
+![Location](https://img.shields.io/badge/India-🇮🇳-0969da?style=flat-square)
+&nbsp;&nbsp;
+![Status](https://img.shields.io/badge/open_to_collaborate-✓-238636?style=flat-square)
+
+<br/>
+
+</div>
+
 ---
 
-## 🧠 About Me
+I'm a student developer from India who builds full-stack web applications, engineers AI/ML systems, and ships real projects. I care about writing clean code, understanding systems deeply, and contributing to open source. I built a working OS in Python — not because I had to, but because I wanted to know if I could.
+
+---
+
+## About
 
 ```python
 class NigamVaghani:
-    def __init__(self):
-        self.roles      = ["Full Stack Dev", "AI/ML Engineer", "Student"]
-        self.location   = "India 🇮🇳"
-        self.stack      = ["Python", "JS", "React", "Next.js", "Django", "Flask"]
-        self.currently  = "Contributing to open source & building cool stuff 🌱"
-        self.fun_fact   = "I built an OS with Python. Yes, seriously. 👀"
-
-    def say_hi(self):
-        print("Let's build something amazing together 🤝")
-
-me = NigamVaghani()
-me.say_hi()  # → Let's build something amazing together 🤝
+    location  = "India 🇮🇳"
+    roles     = ["Full-Stack Developer", "AI/ML Engineer", "Student"]
+    stack     = ["Python", "JavaScript", "React", "Next.js", "Django", "Flask"]
+    currently = "Contributing to open source · building things that matter"
+    fun_fact  = "Built a fully functional OS simulation in Python from scratch"
 ```
 
 ---
 
-## 🏗️ What I Build
+## Work
 
-<table>
-<tr>
-<td width="50%">
+**Full-Stack Web Development**
+Building production-grade web applications end-to-end. Frontend with React and Next.js, backends with Django and Flask, REST API design, database architecture, and CSS that actually looks good.
 
-### 🌐 Full Stack Web
-- Responsive UIs with **React** & **Next.js**
-- Backend APIs with **Django** & **Flask**
-- REST architecture & database design
-- 3D & animated frontends (CSS wizardry ✨)
+**AI / ML Engineering**
+Designing and training ML models, building computer vision pipelines with OpenCV, and applying AI to real-world optimization problems. Worked on a supply chain AI system for the Walmart Challenge.
 
-</td>
-<td width="50%">
+**Open Source**
+Actively contributing — reading codebases, submitting pull requests, and fixing bugs in real projects. Just getting started and going deeper every week.
 
-### 🤖 AI / ML Engineering
-- ML models & data pipelines with **Python**
-- Computer vision & gesture recognition
-- AI-enabled supply chain optimization
-- NLP & intelligent automation
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌱 Open Source
-- Actively contributing with pull requests
-- Exploring & learning real codebases
-- Fixing bugs in the wild
-
-</td>
-<td width="50%">
-
-### ⚔️ Competitive Programming
-- CLI tooling for **Codeforces**
-- Algorithmic problem solving
-- Systems thinking
-
-</td>
-</tr>
-</table>
+**Competitive Programming**
+Built my own CLI tooling for Codeforces. Algorithmic thinking and problem-solving are part of how I approach software.
 
 ---
 
-## ⚡ Tech Stack — Signal Flow
+## Projects
 
-```
-[ Languages ]  Python → JavaScript → Java → HTML/CSS
+<div align="center">
 
-      ↓ builds into
+| Project | What it is | Stack |
+|:--------|:-----------|:------|
+| [**NovaOs**](https://github.com/Nigam-Vaghani/NovaOs) | A fully functional OS simulation built from scratch in Python. Bootloader, shell, memory management — the works. | `Python` |
+| [**Codeforces CLI**](https://github.com/Nigam-Vaghani/codeforces_cli) | A terminal-first tool for competitive programmers to interact with Codeforces without leaving the command line. | `Python` |
+| [**Intellichain AI**](https://github.com/Nigam-Vaghani/Intellichain---AI-enabaled-Supply-chain-optimizer) | AI-powered supply chain optimizer built for the Walmart Sparkathon. Cuts costs using ML-driven demand forecasting. | `Python` `Jupyter` `ML` |
+| [**Gesture Slides**](https://github.com/Nigam-Vaghani/gesture-controlled-presentation) | Control a presentation using only hand gestures. Real-time computer vision with OpenCV — no hardware needed. | `Python` `OpenCV` |
+| [**3D Landing Page**](https://github.com/Nigam-Vaghani/3D-Animated-landing-page) | A 3D animated landing page built with pure HTML and CSS. Zero JavaScript. All depth through transforms. | `HTML` `CSS` |
 
-[ Frontend ]   React  +  Next.js  +  Tailwind CSS
-[ Backend  ]   Django  +  Flask  +  Node.js
+</div>
 
-      ↓ powered by
+---
 
-[ AI / ML  ]   TensorFlow · OpenCV · Scikit-learn · Pandas · NumPy · Jupyter
-
-      ↓ stored in / shipped with
-
-[ Infra    ]   PostgreSQL · MongoDB · Git · Linux · VS Code
-```
+## Tech Stack
 
 **Languages**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+&nbsp;
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=4584b6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f0db4f)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=5382a1)
+![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=e34c26)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=264de4)
 
 **Frontend**
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+&nbsp;
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
 
 **Backend**
-
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=43853D)
+&nbsp;
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=44b78b)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=3c873a)
 
 **AI / ML**
+&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=ff6f00)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=f89939)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5c3ee8)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4dabcf)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=f37626)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![scikit-learn](https://img.shields.io/badge/sklearn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=27338e)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-
-**Tools & Databases**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=316192)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+**Databases & Tools**
+&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=4db33d)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f05032)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=fcc624)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007acc)
 
 ---
 
-## 🚀 Featured Projects
+## Stats
 
 <div align="center">
 
-| Project | Description | Tech | Stars |
-|---------|-------------|------|-------|
-| [🖥️ **NovaOs**](https://github.com/Nigam-Vaghani/NovaOs) | Fully functional OS simulation built in Python | `Python` | ⭐ |
-| [⚔️ **Codeforces CLI**](https://github.com/Nigam-Vaghani/codeforces_cli) | Terminal tool for competitive programmers | `Python` `CLI` | ⭐ |
-| [🤖 **Intellichain AI**](https://github.com/Nigam-Vaghani/Intellichain---AI-enabaled-Supply-chain-optimizer) | AI-powered supply chain optimizer — Walmart Challenge | `Python` `ML` `Jupyter` | |
-| [👋 **Gesture Slides**](https://github.com/Nigam-Vaghani/gesture-controlled-presentation) | Control presentations with hand gestures via OpenCV | `Python` `OpenCV` | |
-| [🎨 **3D Animated Landing**](https://github.com/Nigam-Vaghani/3D-Animated-landing-page) | Pure HTML + CSS 3D animated page — zero JS | `HTML` `CSS` | |
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Nigam-Vaghani&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&icon_color=0969da&title_color=ffffff&text_color=8b949e&bg_color=0d1117" />
+&nbsp;
+<img height="160" src="https://streak-stats.demolab.com/?user=Nigam-Vaghani&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0969da&fire=238636&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" />
+
+<br/><br/>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nigam-Vaghani&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=8b949e" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nigam-Vaghani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Nigam-Vaghani&theme=tokyonight&hide_border=true&background=0d1117" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nigam-Vaghani&theme=github-compact&bg_color=0d1117&color=8b949e&line=0969da&point=238636&area_color=0d1117&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 2025
+
+```
+✅  Built NovaOs — a working OS simulation from scratch in Python
+✅  Worked on real-world AI/ML systems (Walmart Sparkathon)
+✅  Started contributing to open source projects
+⬜  Launch a complete SaaS product
+⬜  Go deeper into LLMs and generative AI engineering
+⬜  Ship a mobile app
+```
+
+---
+
+## Contact
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/github.com/Nigam--Vaghani-0d1117?style=flat-square&logo=github&logoColor=ffffff&labelColor=0d1117)](https://github.com/Nigam-Vaghani)
+
+<!-- Uncomment and fill these when ready -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0969da?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_ID) -->
+<!-- [![Email](https://img.shields.io/badge/Email-238636?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR@gmail.com) -->
+
+</div>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nigam-Vaghani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" />
-
-</div>
-
----
-
-## 🏅 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nigam-Vaghani&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nigam-Vaghani&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=7c3aed&point=3fb950&area=true&hide_border=true"/>
-</div>
-
----
-
-## 🎯 2025 Goals
-
-- [x] 🖥️ Build an OS from scratch — **NovaOs shipped!**
-- [x] 🤖 Work on real-world AI/ML problems
-- [x] 🌱 Start contributing to open source
-- [ ] 🚀 Launch a full SaaS product
-- [ ] 🧠 Master LLMs & GenAI engineering
-- [ ] 📱 Build and ship a mobile app
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Nigam-Vaghani">
-  <img src="https://img.shields.io/badge/GitHub-Nigam--Vaghani-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-</a>
-&nbsp;
-<!-- Add your LinkedIn below -->
-<!-- <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a> -->
-&nbsp;
-<!-- Add your email below -->
-<!-- <a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a> -->
-
-</div>
-
 ---
 
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1f6feb,100:0d1117&height=130&section=footer&animation=twinkling"/>
-
-**`// if you liked what you saw, drop a ⭐ — it means a lot 🙏`**
-
+<sub>Built by Nigam Vaghani &nbsp;·&nbsp; India &nbsp;·&nbsp; 2025</sub>
 </div>
