@@ -76,6 +76,8 @@ me.say_hi()
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -119,6 +121,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
+</div>
 ---
 
 ## 🏆 Featured Projects
