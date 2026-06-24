@@ -24,7 +24,9 @@
 
 ## Yeah .......
 
-<img align="right" width="300" src="reade_image.png" alt="meme" />
+<p align="center">
+  <img src="./reade_image.png" width="700">
+</p>
 
 ```python
 class NigamVaghani:
