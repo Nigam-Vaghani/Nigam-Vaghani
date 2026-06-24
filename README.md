@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Animated Header Banner -->
@@ -25,6 +24,9 @@
 
 ---
 
+<!-- RIGHT ALIGNED IMAGE -->
+<img align="right" width="300" src="YOUR_IMAGE_URL_HERE" alt="I started with Hello World. Now I'm wondering how the world works." />
+
 ## 🧠 About Me
 
 ```python
@@ -43,6 +45,7 @@ class NigamVaghani:
 
 me = NigamVaghani()
 me.say_hi()
+
 ```
 
 ---
