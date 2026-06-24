@@ -24,11 +24,11 @@
 
 ---
 
-<!-- RIGHT ALIGNED IMAGE -->
-<img align="right" width="300" src="reade_image.png" alt="I started with Hello World. Now I'm wondering how the world works." />
-
+---
 
 ## 🧠 About Me
+
+<img align="right" width="320" src="reade_image.png" alt="I started with Hello World. Now I'm wondering how the world works." />
 
 ```python
 class NigamVaghani:
