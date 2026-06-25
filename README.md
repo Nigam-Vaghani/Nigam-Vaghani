@@ -168,17 +168,6 @@ me.say_hi()
 
 ---
 
-## 🎯 2025 Goals
-
-- [x] 🚀 Build an OS from scratch *(done — NovaOs!)*
-- [x] 🤖 Work on real-world AI/ML problems
-- [ ] 🌐 Launch a full SaaS product
-- [ ] 📦 Contribute to open source projects
-- [ ] 🧠 Master LLMs & GenAI engineering
-- [ ] 📱 Build and ship a mobile app
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
