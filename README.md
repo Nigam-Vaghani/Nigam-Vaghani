@@ -1,4 +1,4 @@
-<img align="right" width="320" src="reade_image.png" alt="I started with Hello World. Now I'm wondering how the world works." />
+<img align="right" width="320" src="git_poster.jpg" alt="I started with Hello World. Now I'm wondering how the world works." />
 
 #  Hey, I'm Nigam!
 
