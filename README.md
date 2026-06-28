@@ -30,5 +30,5 @@ Python · TypeScript · JavaScript · Java · React · Next.js · Django · Flas
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nigam--Vaghani-181717?logo=github)](https://github.com/Nigam-Vaghani)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nigam--vaghani-0077B5?logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-your.email-D14836?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-your.email-D14836?logo=gmail&logoColor=white)](mailto:nigamvaghani@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-nigam--vaghani.in-FF5722?logo=google-chrome&logoColor=white)](https://nigam-vaghani.in)
