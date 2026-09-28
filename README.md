@@ -2,7 +2,7 @@
 
 #  Hey, I'm Nigam!
 
-I ❤️ building things that make people go *"wait, you made THAT?"*
+I LOVE building things that make people go *"wait, you made THAT?"*
 
 Full stack dev by day, ML engineer by night, and someone who apparently can't stop building dev tools with names starting with "Nova".
 My to-do list has more items than my GitHub has commits. We don't talk about that.
